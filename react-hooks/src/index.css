@@ -1,3 +1,6 @@
+@view-transition{
+  navigation:auto;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
